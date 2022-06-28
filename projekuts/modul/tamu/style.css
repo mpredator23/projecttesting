@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */ BODY {
+FONT-SIZE: 11px; FONT-FAMILY:
+verdana, arial;
+}
+TD {
+FONT-SIZE: 11px; FONT-FAMILY:
+verdana, arial;
+}
+.table_utama { border-color : black;
+border-style : solid; border-width : 1px;
+}
+.td_head{
+border-color : balck;
+border-style : solid;
+border-width : 0px 0px 1px 0px;
+background-color : #A1BBE4;
+height : 20 px;
+}
+.td_foot{
+border-color : balck;
+border-style : solid;
+border-width : 0px 0px 0px 0px;
+background-color : #A1BBE4; height :
+85 px;
+text-align : center;
+}
+
+.td_menu{
+border-color : black;
+border-style : solid;
+border-width : 1px 1px 1px 0px;
+background-color : #BFD0EA; width :
+200px;
+}
+.td_headmenu{ border-color : black;
+border-style : outset;
+border-width : 0px 0px 1px 0px;
+background-color : #A1BBE4;
+FONT-SIZE: 11px; FONT-FAMILY:
+verdana, arial;height : 20px;
+}
+.tdisi{
+border-color : black;
+border-style : solid;
+border-width : 1px 0px 1px 0px;
+background-color : #51DEE7; width :
+700px;
+}
+
